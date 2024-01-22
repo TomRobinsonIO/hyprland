@@ -1,0 +1,44 @@
+daemonize
+show-failed-attempts
+clock
+screenshot
+effect-blur=9x5
+effect-vignette=0.5:0.5
+color=3b425280
+font="Inter"
+indicator
+indicator-radius=200
+indicator-thickness=20
+line-color=3b4252
+ring-color=2e3440
+inside-color=3b4252
+key-hl-color=5e81ac
+separator-color=00000000
+text-color=88c0d0
+text-caps-lock-color=""
+line-ver-color=5e81ac
+ring-ver-color=5e81ac
+inside-ver-color=3b4252
+text-ver-color=88c0d0
+ring-wrong-color=81a1c1
+text-wrong-color=81a1c1
+inside-wrong-color=3b4252
+inside-clear-color=3b4252
+text-clear-color=88c0d0
+ring-clear-color=8fbcbb
+line-clear-color=3b4252
+line-wrong-color=3b4252
+bs-hl-color=81a1c1
+grace=1
+grace-no-mouse
+grace-no-touch
+fade-in=0.2
+ignore-empty-password
+
+# AM/PM formats (American Format)
+datestr=%a, %B %e
+timestr=%I:%M %p
+
+#24 HRS clock format and standard Europe Date Format
+#timestr=%H:%M:%S
+#datestr=%d %B, %a
