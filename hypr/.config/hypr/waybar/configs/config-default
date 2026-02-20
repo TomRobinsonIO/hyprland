@@ -32,6 +32,7 @@
 "modules-right": [
 	//"hyprland/window", 
 	"tray",
+	"network",
 	"cava", 
 	"battery", 
 	"backlight",
